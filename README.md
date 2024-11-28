@@ -14,6 +14,7 @@
     <h2 style="text-align: left; font-size: 32px;font-family: "Vazirmatn", sans-serif;font-weight:700;">redesign Digikala</h2>
 The website template redesign for Digikala using HTML, CSS, Bootstrap, JS, and Swiper JS. This template is fully responsive, and only the homepage of the site has been redesigned.
     <br />
+    <br />
     demo link:
     <a
       href="https://aliakbar-nazemi.github.io/Digikala/"
