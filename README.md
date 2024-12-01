@@ -17,7 +17,7 @@ The website template redesign for Digikala using HTML, CSS, Bootstrap, JS, and S
     <br />
     demo link:
     <a
-      href="https://aliakbar-nazemi.github.io/Digikala/"
+      href="https://aliakbarnazemi-web.github.io/Digikala/"
       target="_blank"
       style="width: fit-content; padding: 10px; background-color: #a8cd89;border-radius:5px;"
       >Demo</a
